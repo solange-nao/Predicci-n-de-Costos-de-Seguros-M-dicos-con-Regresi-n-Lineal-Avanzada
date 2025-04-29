@@ -16,6 +16,12 @@
 - Streamlit (Demo App)
 
 ## 🚀 Cómo Ejecutar
+pip install -r requirements.txt
 1. Clona el repo:
    ```bash
-   git clone https://github.com/tuusuario/insurance-cost-prediction.git
+   git clone https://github.com/solange-nao/Predicci-n-de-Costos-de-Seguros-M-dicos-con-Regresi-n-Lineal-Avanzada.git
+cd Predicci-n-de-Costos-de-Seguros-M-dicos-con-Regresi-n-Lineal-Avanzada
+
+pip install -r requirements.txt
+jupyter notebook notebooks/01_EDA.ipynb
+
